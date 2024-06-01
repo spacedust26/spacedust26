@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Pranamya G Kulal</h1>
 <h3 align="center">A passionate web developer from India and I love programming.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/35/e8/88/35e888fa0298a24815ccc03a358687bd.jpg">
-- 🔭 I’m currently working on a cryptography research project soon to be published !
+- 🔭 I’m currently working on a cryptography research project soon to be published
 
 - 🌱 I’m currently learning **MERN stack and lots of DSA**
 
