@@ -1,3 +1,4 @@
+![Pranamya Kulal](https://github.com/user-attachments/assets/135760af-3306-4338-a534-94e7d03dd717)
 <h1 align="center">Hi 👋, I'm Pranamya G Kulal</h1>
 <h3 align="center">I love to code, design and develop.</h3>
 
