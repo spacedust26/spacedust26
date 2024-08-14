@@ -24,9 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spacedust26&show_icons=true&locale=en" alt="spacedust26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spacedust26&" alt="spacedust26" /></p>
-
-[![spacedust26's GitHub | Dependencies](https://stats.quira.sh/spacedust26/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=spacedust26)
-
-[![spacedust26's GitHub | Topics Over Time](https://stats.quira.sh/spacedust26/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=spacedust26)
-
-[![spacedust26's GitHub | Languages Over Time](https://stats.quira.sh/spacedust26/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=spacedust26)
