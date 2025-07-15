@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spacedust26&label=Profile%20views&color=0e75b6&style=flat" alt="spacedust26" /> </p>
 
-- 🔭 I’m currently working on **a Cryptography Research Project**
+- 🔭 I’m currently working on **AIML and web projects**
 
-- 🌱 I’m currently learning **more on web development and lots of DSA**
+- 🌱 I’m currently learning **new aiml concepts**
 
 - 📫 How to reach me **pranamyak26@gmail.com**
 
